@@ -1,0 +1,6 @@
+data/
+.DS_Store
+anaconda_projects/
+images/anaconda_projects/
+.ipynb_checkpoints/
+.virtual_documents/
